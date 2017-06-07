@@ -1,0 +1,4 @@
+hadoopexe\App.class
+hadoopexe\MaxTemperautreReducer.class
+hadoopexe\MaxTemperautreMapper.class
+hadoopexe\MaxTemperatureDriver.class
